@@ -1,0 +1,18 @@
+Writing results to file--results.txt
+1. What are the Eigenvalues for the principal components 1 and 2? :
+154.311
+9.16296
+2. What are the Eigenvectors for the principal components 1 and 2 (showing
+July and January component values for each)? :
+ 0.939141 -0.343532
+ 0.343532  0.939141
+3. Compute the values for the covariance matrix : 
+137.181 46.8283
+46.8283 26.2925
+4. What is the total variance? :
+163.474
+5. What proportion (as a percentage) of total variance do principal components 1  :
+94.3948%
+ What proportion (as a percentage) of total variance do principal components 2  :
+5.60516%
+The results show that principal 1(january) explains 94.3948% of the variability meaning january data is more variable while Principal 2(june) explains  5.60516% of the variability meaning more variable
